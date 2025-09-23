@@ -114,4 +114,5 @@ Below is the ER diagram for the schema:
 ---
 
 ## ✨ Author
-- Internship Project by Ashish Nagar
+- Internship Project by Savita Gupta
+  
